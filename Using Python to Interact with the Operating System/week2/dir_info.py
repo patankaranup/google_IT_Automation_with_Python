@@ -1,0 +1,10 @@
+import os
+print(os.getcwd())
+# os.mkdir('new_dir')
+# os.remove()
+# os.chdir('new_dir')
+print(os.getcwd())
+os.chdir('..')
+print(os.getcwd())
+# rm = os.rmdir('./new_dir')
+# print(rm)
