@@ -1,1 +1,0 @@
-1. Python Book -> https://greenteapress.com/wp/think-python/
